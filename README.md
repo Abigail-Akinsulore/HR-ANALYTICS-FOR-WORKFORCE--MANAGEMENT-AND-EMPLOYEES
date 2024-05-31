@@ -2,17 +2,7 @@
 This dashboard provides insights into various aspects of HR management, focusing on employee attrition, job satisfaction, age distribution, salary hikes, and promotions. The dashboard helps in identifying key areas affecting employee retention and satisfaction within the organization.
 ## Graphs and Insights
 
-![1717095957856](https://github.com/Abigail-Akinsulore/HR-ANALYTICS-FOR-WORKFORCE--MANAGEMENT-AND-EMPLOYEES/assets/171024227/7434ff40-9b23-4d30-9a93-a22290d4f854)
-
-![1717095957862](https://github.com/Abigail-Akinsulore/HR-ANALYTICS-FOR-WORKFORCE--MANAGEMENT-AND-EMPLOYEES/assets/171024227/98b5d799-7452-4352-9f72-88e2ce18d7ff)
-
-![1717095957851](https://github.com/Abigail-Akinsulore/HR-ANALYTICS-FOR-WORKFORCE--MANAGEMENT-AND-EMPLOYEES/assets/171024227/4d883a77-e10f-4cf2-b717-815b0d0f1f86)
-
-![1717095957844](https://github.com/Abigail-Akinsulore/HR-ANALYTICS-FOR-WORKFORCE--MANAGEMENT-AND-EMPLOYEES/assets/171024227/f6a86104-da59-4c94-9bf5-402c50e69ea7)
-
-![1717095957837](https://github.com/Abigail-Akinsulore/HR-ANALYTICS-FOR-WORKFORCE--MANAGEMENT-AND-EMPLOYEES/assets/171024227/f2a2a32b-dd05-488b-ae78-993cadc01d71)
-
-
+![WhatsApp Image 2024-05-30 at 2 59 34 PM](https://github.com/Abigail-Akinsulore/HR-ANALYTICS-FOR-WORKFORCE--MANAGEMENT-AND-EMPLOYEES/assets/171024227/947f9b52-c5d0-4fa8-a006-b80efc36f518)
 
 
 ### 1. Total Employee, Current Employee, Attrition Count
